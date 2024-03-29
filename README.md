@@ -47,5 +47,3 @@ I'm an **Engineering Student specializing in Computer Science**, with a focus on
 ---
 
 I'm always open to new projects and collaborations. Feel free to reach out if you have an idea or a project in mind!
-
-![Snake animation](https://raw.githubusercontent.com/malekkadri/malekkadri/output/github-contribution-grid-snake-dark.svg)
