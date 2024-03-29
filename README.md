@@ -1,94 +1,50 @@
-# Konichiwa 👋
+# Hello, I'm Malek Kadri 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+## 👨‍💻 About Me
 
-</br>
-</br>
-</br>
+I'm an **Engineering Student specializing in Computer Science**, with a focus on Web and Internet Technologies. Passionate about development and constantly seeking new challenges, I have practical experience in a variety of technologies and frameworks, making me well-equipped to tackle complex projects. My journey in tech is driven by my eagerness to learn and my ambition to make a significant impact through my work.
 
+- 🔭 Currently working on web development projects using technologies like Laravel, Symfony, React, and Angular.
+- 🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills.
+- 👯 Looking to collaborate on projects related to web applications, e-commerce platforms, or any innovative tech ideas.
+- 🤔 Seeking help with advanced DevOps practices.
+- 💬 Happy to chat about web development, software architecture, or any tech-related topics.
+- 📫 How to reach me: [Email](mailto:malek.kadri100@gmail.com) | [LinkedIn](https://www.linkedin.com/in/malek-kadri) | [GitHub](https://github.com/malekkadri)
+- ⚡ Fun fact: Aside from coding, I enjoy exploring new technologies and staying updated with the latest trends in the tech world.
 
-# About ME 💬 :
+## 🚀 Skills
 
-### - I'm 25 years  old Engineering Student from Tunisia.
+- **Web Technologies**: HTML/CSS, JavaScript, Angular, React, Ajax, jQuery
+- **Backend Frameworks**: Laravel, Spring Boot, Symfony, Node.js
+- **Databases**: SQL/PL, MySQL, MongoDB
+- **DevOps**: Jenkins, Docker
+- **Version Control and Project Management**: GitHub, Jira, UML
+- **Languages**: Proficient in Java, Python, C, and Visual Basic
+- **Operating Systems**: Ubuntu, Centos7, Unix
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+## 🌟 Professional Experiences
 
-### - Learning :
-- ✨ MobileDev
-- ✨ WebDev 
+- **ALCA Agency**: Developed and hosted a consulting company's website. [alca-consulting.com](https://alca-consulting.com)
+- **M.A.C.S**: Developed a platform for creating business-related documents. 
+- **Foufa Style**: Created an e-commerce site for a cosmetic company. [foufa-style.tn](https://foufa-style.tn)
+- **Kamergi Audio**: Developed an e-commerce platform for an audio equipment company. [kamergiaudio.com](https://kamergiaudio.com)
+- **Oxton Digital**: Worked on automated SMS management system and website maintenance.
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Learning philosophy 
+## 🔨 Projects
 
-</br>
-</br>
-</br>
+- **DevOps Platform**: A platform for DevOps practices using Jenkins, Docker, and SpringBoot. [GitHub Repo](https://github.com/malekkadri/ProjectDevOps)
+- **Microservice for Travel Agencies**: Web application using Docker, Angular, and SpringBoot. 
+- **Khadamni**: A platform for freelancers. [khadamni-app.onrender.com](https://khadamni-app.onrender.com)
+- **Kadem**: Student management web application. 
+- **Game Nation**: A platform for video game enthusiasts. 
 
+## 📫 How to Reach Me
 
+- **Email**: [malek.kadri100@gmail.com](mailto:malek.kadri100@gmail.com)
+- **LinkedIn**: [malek-kadri](https://www.linkedin.com/in/malek-kadri)
+- **GitHub**: [@malekkadri](https://github.com/malekkadri)
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+---
 
-<p align="center">
+I'm always open to new projects and collaborations. Feel free to reach out if you have an idea or a project in mind!
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:malek.kadri@esprit.tn">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/malek-kadri/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-<p align="center" >  
- 
-  </p>
-
-*************
