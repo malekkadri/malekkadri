@@ -48,8 +48,4 @@ I'm an **Engineering Student specializing in Computer Science**, with a focus on
 
 I'm always open to new projects and collaborations. Feel free to reach out if you have an idea or a project in mind!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malekkadri/malekkadri/output/github-contribution-grid-snake-dark.svg" /> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malekkadri/malekkadri/output/github-contribution-grid-snake.svg" /> 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/malekkadri/malekkadri/output/github-contribution-grid-snake-dark.svg" /> 
-</picture>
+![Snake animation](https://raw.githubusercontent.com/malekkadri/malekkadri/output/github-contribution-grid-snake-dark.svg)
