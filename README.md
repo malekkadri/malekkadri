@@ -1,49 +1,75 @@
-# Hello, I'm Malek Kadri 👋
+<h1 align="center">Hey there, I'm Malek Kadri 👋</h1>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;💡+Passionate+about+Tech;🌍+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-I'm an **Engineering Student specializing in Computer Science**, with a focus on Web and Internet Technologies. Passionate about development and constantly seeking new challenges, I have practical experience in a variety of technologies and frameworks, making me well-equipped to tackle complex projects. My journey in tech is driven by my eagerness to learn and my ambition to make a significant impact through my work.
-
-- 🔭 Currently working on web development projects using technologies like Laravel, Symfony, React, and Angular.
-- 🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills.
-- 👯 Looking to collaborate on projects related to web applications, e-commerce platforms, or any innovative tech ideas.
-- 🤔 Seeking help with advanced DevOps practices.
-- 💬 Happy to chat about web development, software architecture, or any tech-related topics.
-- 📫 How to reach me: [Email](mailto:malek.kadri100@gmail.com) | [LinkedIn](https://www.linkedin.com/in/malek-kadri) | [GitHub](https://github.com/malekkadri)
-- ⚡ Fun fact: Aside from coding, I enjoy exploring new technologies and staying updated with the latest trends in the tech world.
-
-## 🚀 Skills
-
-- **Web Technologies**: HTML/CSS, JavaScript, Angular, React, Ajax, jQuery
-- **Backend Frameworks**: Laravel, Spring Boot, Symfony, Node.js
-- **Databases**: SQL/PL, MySQL, MongoDB
-- **DevOps**: Jenkins, Docker
-- **Version Control and Project Management**: GitHub, Jira, UML
-- **Languages**: Proficient in Java, Python, C, and Visual Basic
-- **Operating Systems**: Ubuntu, Centos7, Unix
-
-## 🌟 Professional Experiences
-
-- **ALCA Agency**: Developed and hosted a consulting company's website. [alca-consulting.com](https://alca-consulting.com)
-- **M.A.C.S**: Developed a platform for creating business-related documents. 
-- **Foufa Style**: Created an e-commerce site for a cosmetic company. [foufa-style.tn](https://foufa-style.tn)
-- **Kamergi Audio**: Developed an e-commerce platform for an audio equipment company. [kamergiaudio.com](https://kamergiaudio.com)
-- **Oxton Digital**: Worked on automated SMS management system and website maintenance.
-
-## 🔨 Projects
-
-- **DevOps Platform**: A platform for DevOps practices using Jenkins, Docker, and SpringBoot. [GitHub Repo](https://github.com/malekkadri/ProjectDevOps)
-- **Microservice for Travel Agencies**: Web application using Docker, Angular, and SpringBoot. 
-- **Khadamni**: A platform for freelancers. [khadamni-app.onrender.com](https://khadamni-app.onrender.com)
-- **Kadem**: Student management web application. 
-- **Game Nation**: A platform for video game enthusiasts. 
-
-## 📫 How to Reach Me
-
-- **Email**: [malek.kadri100@gmail.com](mailto:malek.kadri100@gmail.com)
-- **LinkedIn**: [malek-kadri](https://www.linkedin.com/in/malek-kadri)
-- **GitHub**: [@malekkadri](https://github.com/malekkadri)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-I'm always open to new projects and collaborations. Feel free to reach out if you have an idea or a project in mind!
+## 🚀 About Me  
+
+💻 **IT Engineer specialized in Computer Science**  
+🔥 Passionate about **Web & Software Development**  
+🔧 Skilled in **Symfony, React, Spring Boot, Laravel, Angular**  
+🌱 Always exploring **new technologies & best practices**  
+📌 Open to **Collaborations on Web Apps & E-commerce Projects**  
+📫 Reach me at: [Email](mailto:malek.kadri100@gmail.com) | [LinkedIn](https://www.linkedin.com/in/malek-kadri)  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+
+### 💻 Backend  
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+
+### ⚙️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malekkadri&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekkadri&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Fun Facts  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
+</p>
+
+⭐ **Fun Fact**: When I'm not coding, I explore new tech trends, watch sci-fi movies, and dive into AI innovations!  
+
+---
+
+## 📫 How to Reach Me  
+
+<p align="center">
+  <a href="mailto:malek.kadri100@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/malek-kadri"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/malekkadri"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+🔥 **Keep Coding & Innovating!** 🚀  
