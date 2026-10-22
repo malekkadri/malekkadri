@@ -1,75 +1,65 @@
-<h1 align="center">Hey there, I'm Malek Kadri 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;💡+Passionate+about+Tech;🌍+Lifelong+Learner" alt="Typing SVG" />
-</p>
+# Hey, I'm Malek Kadri 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+**Software Engineer · Full-Stack Developer · Tunisia 🇹🇳**
 
----
+*I love taking an idea from “what if?” to something people can actually use.*
 
-## 🚀 About Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-kadri)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:malek.kadri100@gmail.com)
 
-💻 **IT Engineer specialized in Computer Science**  
-🔥 Passionate about **Web & Software Development**  
-🔧 Skilled in **Symfony, React, Spring Boot, Laravel, Angular**  
-🌱 Always exploring **new technologies & best practices**  
-📌 Open to **Collaborations on Web Apps & E-commerce Projects**  
-📫 Reach me at: [Email](mailto:malek.kadri100@gmail.com) | [LinkedIn](https://www.linkedin.com/in/malek-kadri)  
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+### A little about me
 
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+I'm a computer engineer who enjoys the whole journey of building software: understanding the problem, designing the backend, shaping the interface, and getting it into people's hands.
 
-### 💻 Backend  
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+I naturally gravitate toward **backend engineering**, but I don't like stopping at the API. I care about how the product feels, how it performs, and whether it genuinely makes someone's day easier.
 
-### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+I've worked across **web platforms, business applications, and e-commerce**. These days, I'm especially interested in **education technology, practical AI, cloud infrastructure, and open source**.
 
----
+> Good software isn't just code that runs. It's something people can rely on.
 
-## 📈 GitHub Stats  
+### What I work with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malekkadri&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-</p>
+| | Technologies |
+| --- | --- |
+| **Backend** | PHP · Laravel · Symfony · Java · Spring Boot · REST APIs |
+| **Frontend** | TypeScript · React · Next.js · Angular · Vue.js |
+| **Data & infrastructure** | MySQL · PostgreSQL · Redis · Docker · AWS · Kubernetes · Jenkins |
+| **Web & commerce** | WordPress · WooCommerce |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekkadri&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+*Tools change. Curiosity, clear thinking, and attention to detail stay.*
 
----
+### What I'm excited about right now
 
-## 🚀 Fun Facts  
+- 📚 **Building learning experiences** — making education more interactive, accessible, and useful through software.
+- ⚙️ **Engineering beyond localhost** — APIs, databases, deployments, and all the little things that make a system dependable.
+- 🌱 **Contributing to open source** — learning from the projects I use and giving something back, one improvement at a time.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
-</p>
+### A few things I've worked on
 
-⭐ **Fun Fact**: When I'm not coding, I explore new tech trends, watch sci-fi movies, and dive into AI innovations!  
+- **[Laravel documentation contribution](https://github.com/laravel/docs/pull/11418)** — a merged fix clarifying how to handle the SFTP port configuration. Small detail, real impact.
+- **[EcoSpark](https://github.com/malekkadri/EcoSpark-Laravel-E-shop-project-for-electic-cars)** — a Laravel e-commerce project built with teammates, exploring the full experience of an online shop.
+- **Education technology (work in progress)** — exploring courses, interactive practice, and thoughtful AI-assisted learning workflows.
 
----
+### Beyond the editor
 
-## 📫 How to Reach Me  
+I'm from **Tunisia 🇹🇳**, curious by nature, and always looking for something new to learn. I enjoy sci-fi, exploring ideas, and the moment when a complicated problem finally clicks.
 
-<p align="center">
-  <a href="mailto:malek.kadri100@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/malek-kadri"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/malekkadri"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>
-</p>
+I like working with people who care about what they build, share what they learn, and aren't afraid to rethink an approach.
 
 ---
 
-🔥 **Keep Coding & Innovating!** 🚀  
+<div align="center">
+
+**Have an interesting idea or want to talk software?**
+
+[Let's connect on LinkedIn](https://www.linkedin.com/in/malek-kadri) · [Send me an email](mailto:malek.kadri100@gmail.com)
+
+*Keep learning. Keep building. Keep improving.*
+
+</div>
